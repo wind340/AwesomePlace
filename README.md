@@ -1,6 +1,5 @@
 # AwesomePlace
+jsp test project
 
-# jsp test project
-
-# server - tomcat9
-# sql -  mysql
+server - tomcat9
+sql -  mysql
