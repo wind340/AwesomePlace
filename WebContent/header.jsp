@@ -69,7 +69,7 @@ a , a:hover {
           </a>
           <ul class="dropdown-menu" aria-labelledby="navbarScrollingDropdown">
             <li><a class="dropdown-item" href="/event/eventList.jsp">공지사항 및 이벤트</a></li>
-            <li><a class="dropdown-item" href="/board/listBoard.jsp">게시판</a></li>
+            <li><a class="dropdown-item" href="/board/listBoard.jsp">자유 게시판</a></li>
           </ul>
         </li>
 		 </ul>
