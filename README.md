@@ -30,6 +30,11 @@ coffee shop concept - jsp project
 
 ## admin add menu 
 <img src="https://user-images.githubusercontent.com/83698052/155354992-f5ccb146-ee9d-49bd-aaef-8cde85710a4d.png" width="50%">
+---
+
+## 실행방법
+src-main-webapp-resource-SQL 을 입력하여 넣어주시고
+src-main-webapp-resource- META-INF - context DB에 맞게 수정
 
 ---
 ## epilogue
